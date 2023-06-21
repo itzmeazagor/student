@@ -1,1 +1,7 @@
 print("my name is santo");
+if santo == true{
+console.log("Hello Santo");
+}
+else{
+console.log("you are wrong guy");
+}
